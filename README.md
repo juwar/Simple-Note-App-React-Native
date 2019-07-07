@@ -30,8 +30,8 @@ Here is my new repository which builded with React Native Framework for making t
 ## Screencapture this App
 <p align='center'>
   <span>
-    <img src='ttps://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img1.png' width=200 />
-    <img src='ttps://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img2.png' width=200 />
-    <img src='ttps://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img3.png' width=200 />
+    <img src='https://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img1.png' width=200 />
+    <img src='https://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img2.png' width=200 />
+    <img src='https://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img3.png' width=200 />
   </span>
 </p>
