@@ -25,3 +25,9 @@ Here is my new repository which builded with React Native Framework for making t
 3. Open the project in your favorite text editor
 4. Open your terminal or cmd and type `npm install`
 5. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a device on debugging mode or use the emulator on debugging mode too.
+
+
+## Screencapture this App
+![alt text](https://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img1.png)
+![alt text](https://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img2.png)
+![alt text](https://github.com/juwar/Simple-Note-App-React-Native/blob/master/src/Screens/sampleImg/img3.png)
