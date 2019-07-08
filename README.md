@@ -27,10 +27,10 @@ Here is my new repository which builded with React Native Framework for making t
 5. And the last just type in your terminal or cmd `react-native run-android`, be sure if you connected with a device on debugging mode or use the emulator on debugging mode too.
 
 ## Demo App
-*[Check this video](https://tiny.cc/sampleappnote) 
+[*Check this video](https://tiny.cc/sampleappnote) 
 
 ## Download App
-*[Download Simple Note App.apk](https://drive.google.com/open?id=1_HanEnrj5Y4YM-CtbkGhRpYPI1gJ6qQf)
+[*Download Simple Note App.apk](https://drive.google.com/open?id=1_HanEnrj5Y4YM-CtbkGhRpYPI1gJ6qQf)
 
 ## Screencapture this App
 <p align='center'>
