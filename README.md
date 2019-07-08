@@ -29,8 +29,8 @@ Here is my new repository which builded with React Native Framework for making t
 ## Demo App
 *[Check this video](https://tiny.cc/sampleappnote) 
 
-## Demo App
-*[Check this video](https://drive.google.com/open?id=1_HanEnrj5Y4YM-CtbkGhRpYPI1gJ6qQf)
+## Download App
+*[Download Simple Note App.apk](https://drive.google.com/open?id=1_HanEnrj5Y4YM-CtbkGhRpYPI1gJ6qQf)
 
 ## Screencapture this App
 <p align='center'>
